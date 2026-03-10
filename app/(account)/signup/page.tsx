@@ -3,7 +3,7 @@
 import env from "@/config/environment";
 import TextField from "@/components/textfield";
 
-export default function Home() {
+export default function SignUpPage() {
   return (
     <div>
       <h1>{env.APPNAME}</h1>
